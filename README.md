@@ -21,9 +21,9 @@ Rama del campo de la inteligencia artificial, que busca como dotar a las maquina
 
 ## Paradigma de aprendizaje
 
-* Aprendizaje supervisado
-* Aprendizaje no supervisado
-* Aprendizaje reforzado
+* Aprendizaje supervisado: tipo de apredizaje donde alimentamos al algoritmo con datos etiquetados durante el entrenamiento. el adgoritmo aprendera a clasificar nuevos datos. por ejemplo: destacar spam
+* Aprendizaje no supervisado: ipo de apredizaje donde alimentamos al algoritmo con datos no etiquetados. 
+* Aprendizaje reforzado: 
 
 ## Tecnicas de Aprendizaje Autonatico
 
