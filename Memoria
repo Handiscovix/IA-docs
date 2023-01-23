@@ -5,6 +5,26 @@ Clasificacion de imagenes
 Vamos a entrenar a la IA para que aprenda a reciclar, utilizando solo imagenaes.
 Emos creado 3 clases que serian los contenedores (azul, amarillo y verde) y emos puesto unas pocas imagenes de lo que se debe tirar en cada uno. La IA no reconece bien los contenedores ya que hay pocas fotos.
 
+·contenedor azul
+file:///home/aleara/azul/papelas.jpeg
+file:///home/aleara/azul/papel.jpeg
+file:///home/aleara/azul/carton.png
+
+·contenedor verde
+file:///home/aleara/verde/bote%20cris.jpeg
+file:///home/aleara/verde/botella%20cr.jpeg
+file:///home/aleara/verde/botella%20crist.jpeg
+
+·Contenedor amarillo
+file:///home/aleara/amarillo/botella%20pl.jpeg
+file:///home/aleara/amarillo/botella%201.jpeg
+file:///home/aleara/amarillo/leche.jpeg
+
 #Sesion 2
 
 Emos añadido mas imagenes para seguir entrenando a la IA, ademas, emos añadido un 4 contenedor que es el de punto limpio para productos tecnologicos con varias imagenes.
+
+·Contenedor punto limpio
+file:///home/aleara/p.%20limpio/pilas.jpeg
+file:///home/aleara/p.%20limpio/prueva%202.jpeg
+file:///home/aleara/p.%20limpio/portatil.jpeg
