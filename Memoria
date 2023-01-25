@@ -1,6 +1,6 @@
 Clasificacion de imagenes
 
-#Sesion 1
+##Sesion 1
 
 Vamos a entrenar a la IA para que aprenda a reciclar, utilizando solo imagenaes.
 Emos creado 3 clases que serian los contenedores (azul, amarillo y verde) y emos puesto unas pocas imagenes de lo que se debe tirar en cada uno. La IA no reconece bien los contenedores ya que hay pocas fotos.
@@ -20,7 +20,7 @@ file:///home/aleara/amarillo/botella%20pl.jpeg
 file:///home/aleara/amarillo/botella%201.jpeg
 file:///home/aleara/amarillo/leche.jpeg
 
-#Sesion 2
+##Sesion 2
 
 Emos añadido mas imagenes para seguir entrenando a la IA, ademas, emos añadido un 4 contenedor que es el de punto limpio para productos tecnologicos con varias imagenes.
 
@@ -28,3 +28,20 @@ Emos añadido mas imagenes para seguir entrenando a la IA, ademas, emos añadido
 file:///home/aleara/p.%20limpio/pilas.jpeg
 file:///home/aleara/p.%20limpio/prueva%202.jpeg
 file:///home/aleara/p.%20limpio/portatil.jpeg
+
+
+##Sesion 3
+
+pruebas con las fotos del test 2
+
+| IMAGEN                   | CATEGORIA REAL | CATEGORIA DEL MODELO | PORCENTAJE  |
+|--------------------------|----------------|----------------------|-------------|
+| Bandeja de aluminio      | Amarillo       | punto limpio         | 66,00 %     |
+| Tubo de pasta de dientes | Amarillo       | punto limpio         | 52,00 %     |
+| envase de papel          | azul           | punto limpio         | 45,00 %     |
+| papel envolver           | azul           | marron               | 99,00 %     |
+| cazo cocina              | gris           | punto limpio         | 58,00 %     |
+| colilla                  | gris           | punto limpio         | 68,00 %     |
+| juguete de plastico      | gris           | marron               | 84,00 %     |
+| tarro de conserva        | verde          | Amarillo             | 39,00 %     |
+| tarro mermelada          | verde          | verde                | 59,00 %     |
